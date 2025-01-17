@@ -1,5 +1,3 @@
-# About Me
-
 ## Hi there! 👋
 
 I'm [Your Name], a passionate developer and lifelong learner with a keen interest in [your main interests, e.g., web development, AI, open source projects]. Welcome to my GitHub profile!
